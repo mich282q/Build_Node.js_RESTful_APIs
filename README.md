@@ -22,3 +22,6 @@ Firsr of all, let’s install mongoose
 
 On successful installation, your package.json file will be modified to have the two newly installed packages.
 
+Author:
+
+Michael Trans
