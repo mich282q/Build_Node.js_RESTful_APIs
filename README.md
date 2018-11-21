@@ -22,6 +22,9 @@ Firsr of all, let’s install mongoose
 
 On successful installation, your package.json file will be modified to have the two newly installed packages.
 
+# link til opgaven 
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
+
 Author:
 
 Michael Trans
